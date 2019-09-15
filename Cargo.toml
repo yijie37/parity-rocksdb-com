@@ -29,7 +29,9 @@ version = "0.2"
 [dependencies.local-encoding]
 version = "0.2.0"
 
-[dependencies.parity-rocksdb-sys]
+[dependencies.parity-rocksdb-sys1]
 version = "0.5.6"
+git = "https://github.com/yijie37/parity-rocksdb-sys-com.git"
+
 [dev-dependencies.tempdir]
 version = "0.3"
